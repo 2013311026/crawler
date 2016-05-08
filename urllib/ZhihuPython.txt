@@ -1,0 +1,960 @@
+问题: 如何入门 Python 爬虫？
+问题链接：http://www.zhihu.com/question/20899988
+问题: Python 的练手项目有哪些值得推荐？
+问题链接：http://www.zhihu.com/question/29372574
+问题: 如何系统地自学 Python？
+问题链接：http://www.zhihu.com/question/29138020
+问题: 零基础应该选择学习 Java、PHP 还是 Python？
+问题链接：http://www.zhihu.com/question/40801731
+问题: 如何用一段简单的代码讲述一个悲伤的故事？
+问题链接：http://www.zhihu.com/question/39021759
+问题: 为什么很多人喜欢 Python？
+问题链接：http://www.zhihu.com/question/28676107
+问题: 你是如何自学 Python 的？
+问题链接：http://www.zhihu.com/question/20702054
+问题: Python 的练手项目有哪些值得推荐？
+问题链接：http://www.zhihu.com/question/29372574
+问题: 使用 Python 会降低程序员的编程能力吗？
+问题链接：http://www.zhihu.com/question/19900260
+问题: 如何实现 C/C++ 与 Python 的通信？
+问题链接：http://www.zhihu.com/question/23003213
+问题: 如何系统地自学 Python？
+问题链接：http://www.zhihu.com/question/29138020
+问题: 有哪些网站用爬虫爬取能得到很有价值的数据？
+问题链接：http://www.zhihu.com/question/36132174
+问题: 打算读计科高考后的暑假怎么先自学?
+问题链接：http://www.zhihu.com/question/39577102
+问题: 业余时间如何学数据分析？
+问题链接：http://www.zhihu.com/question/22119753
+问题: 如何拿到知乎用户H-index的排名？
+问题链接：http://www.zhihu.com/question/32150685
+问题: Python 有哪些好的学习资料或者博客？
+问题链接：http://www.zhihu.com/question/34907211
+问题: 怎么用最短时间高效而踏实地学习 Python？
+问题链接：http://www.zhihu.com/question/28530832
+问题: 编程零基础应当如何开始学习 Python ？
+问题链接：http://www.zhihu.com/question/20039623
+问题: 维护一个五六百行的程序就已经力不从心了怎么办？
+问题链接：http://www.zhihu.com/question/29596513
+问题: 哪些 Python 库让你相见恨晚？
+问题链接：http://www.zhihu.com/question/24590883
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 有多少人按@萧井陌大神给出的Python+Flask路线找到工作了？
+问题链接：http://www.zhihu.com/question/29775447
+问题: Spring，Django，Rails，Express这些框架技术的出现都是为了解决什么问题，现在这些框架都应用在哪些方面？
+问题链接：http://www.zhihu.com/question/25654738
+问题: 编程零基础应当如何开始学习 Python ？
+问题链接：http://www.zhihu.com/question/20039623
+问题: python  django学的很迷茫怎么办？
+问题链接：http://www.zhihu.com/question/26235428
+问题: 怎么用最短时间高效而踏实地学习 Python？
+问题链接：http://www.zhihu.com/question/28530832
+问题: 如何入门 Python 爬虫？
+问题链接：http://www.zhihu.com/question/20899988
+问题: 有哪些网站用爬虫爬取能得到很有价值的数据？
+问题链接：http://www.zhihu.com/question/36132174
+问题: 可以用 Python 编程语言做哪些神奇好玩的事情？
+问题链接：http://www.zhihu.com/question/21395276
+问题: 看自己几年前写的代码是怎样的一种感受？
+问题链接：http://www.zhihu.com/question/40097501
+问题: 如何处理 Python 入门难以进步的现象？
+问题链接：http://www.zhihu.com/question/27969262
+问题: 如何用一段简单的代码讲述一个悲伤的故事？
+问题链接：http://www.zhihu.com/question/39021759
+问题: 对 Quant 而言 Python 的需求高吗，除 C++ 外还有哪些流行的编程语言？
+问题链接：http://www.zhihu.com/question/20746635
+问题: 「8 万行的 Python 程序用 4 万行 Java 重写了」，说明了什么？
+问题链接：http://www.zhihu.com/question/22252189
+问题: 哪些 Python 库让你相见恨晚？
+问题链接：http://www.zhihu.com/question/24590883
+问题: 求十亿内所有质数的和，怎么做最快?
+问题链接：http://www.zhihu.com/question/29580448
+问题: 可以用 Python 编程语言做哪些神奇好玩的事情？
+问题链接：http://www.zhihu.com/question/21395276
+问题: 使用 Python 会降低程序员的编程能力吗？
+问题链接：http://www.zhihu.com/question/19900260
+问题: 使用 Python 会降低程序员的编程能力吗？
+问题链接：http://www.zhihu.com/question/19900260
+问题: Python 应该怎么去练习和使用？
+问题链接：http://www.zhihu.com/question/28278283
+问题: 你是如何自学 Python 的？
+问题链接：http://www.zhihu.com/question/20702054
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 怎么样才算是精通 Python？
+问题链接：http://www.zhihu.com/question/19794855
+问题: 编程完全零基础，第一个语言是python的人有什么学习经验可以分享/或者建议？
+问题链接：http://www.zhihu.com/question/22785587
+问题: 如何用python画一朵花？
+问题链接：http://www.zhihu.com/question/30402203
+问题: 应该学习最新版本的 Python 3 还是旧版本的 Python 2？
+问题链接：http://www.zhihu.com/question/24549965
+问题: 在Python中，令values=[0,1,2];values[1]=values,为何结果是[0,[...],2]?
+问题链接：http://www.zhihu.com/question/21000872
+问题: Python 有哪些好的学习资料或者博客？
+问题链接：http://www.zhihu.com/question/34907211
+问题: 看自己几年前写的代码是怎样的一种感受？
+问题链接：http://www.zhihu.com/question/40097501
+问题: 在大型项目上，Python 是个烂语言吗？
+问题链接：http://www.zhihu.com/question/21017354
+问题: 应该学习最新版本的 Python 3 还是旧版本的 Python 2？
+问题链接：http://www.zhihu.com/question/24549965
+问题: 开学大四，自动化专业想转行做程序员，现在该从何学起？
+问题链接：http://www.zhihu.com/question/35244914
+问题: Quant 应该学习哪些 Python 知识？
+问题链接：http://www.zhihu.com/question/33555640
+问题: 一行 Python 能实现什么丧心病狂的功能？
+问题链接：http://www.zhihu.com/question/37046157
+问题: Lambda 表达式有何用处？如何使用？
+问题链接：http://www.zhihu.com/question/20125256
+问题: python  django学的很迷茫怎么办？
+问题链接：http://www.zhihu.com/question/26235428
+问题: 为什么 Python 工程师很少像 Java 工程师那样讨论垃圾回收？
+问题链接：http://www.zhihu.com/question/38380754
+问题: Python 能写游戏吗？有没有什么开源项目？
+问题链接：http://www.zhihu.com/question/25960850
+问题: 你见过哪些令你瞠目结舌的爬虫技巧？
+问题链接：http://www.zhihu.com/question/38192299
+问题: 作为非计算机专业毕业生，想学R语言，最好是不是从python学起？
+问题链接：http://www.zhihu.com/question/21288627
+问题: 深度学习有哪些好玩的且易于实现的论文？
+问题链接：http://www.zhihu.com/question/41231774
+问题: 在大型项目上，Python 是个烂语言吗？
+问题链接：http://www.zhihu.com/question/21017354
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 为什么很多人喜欢 Python？
+问题链接：http://www.zhihu.com/question/28676107
+问题: 有多少人按@萧井陌大神给出的Python+Flask路线找到工作了？
+问题链接：http://www.zhihu.com/question/29775447
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Python Shell 中敲击方向键显示「^[[C^[[D」，原因是什么？如何修复？
+问题链接：http://www.zhihu.com/question/21518507
+问题: 为什么 JAVA 份额那么高，在知乎的存在感却不如 Python？
+问题链接：http://www.zhihu.com/question/22444058
+问题: 如何面试Python后端工程师？
+问题链接：http://www.zhihu.com/question/33398583
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: C 语言和 Python，该从哪个入门编程？
+问题链接：http://www.zhihu.com/question/23743892
+问题: Python 适合初学编程的人学吗？
+问题链接：http://www.zhihu.com/question/19666493
+问题: 毫无基础的人如何入门 Python ？
+问题链接：http://www.zhihu.com/question/32048560
+问题: Python 有哪些一千行左右的经典练手项目？
+问题链接：http://www.zhihu.com/question/31830544
+问题: 自学Python/PHP，我今年20岁，该如何选择?
+问题链接：http://www.zhihu.com/question/39522954
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: 业余时间如何学数据分析？
+问题链接：http://www.zhihu.com/question/22119753
+问题: 程序员，该放弃二线城市的安逸生活，再去北上深拼搏一下吗？顺便谈谈行业转换和发展？
+问题链接：http://www.zhihu.com/question/42180532
+问题: 作为非计算机专业的学生，觉得 C 语言远比其他语言易于上手，正常吗？
+问题链接：http://www.zhihu.com/question/26659552
+问题: 初学 Python，有哪些 Pythonic 的源码推荐阅读？
+问题链接：http://www.zhihu.com/question/20336475
+问题: 大二学生自学编程，学完 C++ 语法后该学些什么？
+问题链接：http://www.zhihu.com/question/40222198
+问题: 学习编程语言最好的方法是什么？
+问题链接：http://www.zhihu.com/question/20252436
+问题: 为什么 Node.js 这么火，而同样异步模式 Python 框架 Twisted 却十几年一直不温不火？
+问题链接：http://www.zhihu.com/question/23854296
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 深度学习有哪些好玩的且易于实现的论文？
+问题链接：http://www.zhihu.com/question/41231774
+问题: 同学都学Java，c++等编译型语言，自学python却总被同学嘲讽为是类似JavaScript的脚本语言，没前途,怎么反驳？
+问题链接：http://www.zhihu.com/question/26577212
+问题: Quant 应该学习哪些 Python 知识？
+问题链接：http://www.zhihu.com/question/33555640
+问题: 零基础应该选择学习 Java、PHP 还是 Python？
+问题链接：http://www.zhihu.com/question/40801731
+问题: 准备从头实现一个类似dota的游戏，怎么入手好呢？
+问题链接：http://www.zhihu.com/question/34669686
+问题: 你什么时候对 Python 感到绝望？
+问题链接：http://www.zhihu.com/question/27519900
+问题: 为什么 Python 现在越来越火了？
+问题链接：http://www.zhihu.com/question/30356973
+问题: 如何从零基础开始写一个关于搜索知乎答案的python爬虫？
+问题链接：http://www.zhihu.com/question/33946642
+问题: Python 会不会替代 MATLAB？
+问题链接：http://www.zhihu.com/question/21404521
+问题: 如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？
+问题链接：http://www.zhihu.com/question/37180159
+问题: 如何让停留在语法层面的 C++，变成实际工程中的 C++？
+问题链接：http://www.zhihu.com/question/26854351
+问题: 学习编程语言最好的方法是什么？
+问题链接：http://www.zhihu.com/question/20252436
+问题: Python 3 网络爬虫学习建议？
+问题链接：http://www.zhihu.com/question/41277528
+问题: 大二学生自学编程，学完 C++ 语法后该学些什么？
+问题链接：http://www.zhihu.com/question/40222198
+问题: 三个基于 Python 的网站：知乎、豆瓣、V2EX 都存在卡顿的问题，是 Python 的问题吗？
+问题链接：http://www.zhihu.com/question/21521104
+问题: 如何系统地自学 Python？
+问题链接：http://www.zhihu.com/question/29138020
+问题: 你是如何开始能写python爬虫？
+问题链接：http://www.zhihu.com/question/21358581
+问题: 作为程序员，女朋友想学习编程，我该做些什么？
+问题链接：http://www.zhihu.com/question/26974347
+问题: Ruby 和 Python 相比有什么优势和缺陷？
+问题链接：http://www.zhihu.com/question/19552194
+问题: 你写过的最好的 Python 脚本是什么?
+问题链接：http://www.zhihu.com/question/23188097
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 如何从拉勾网往里面来看互联网企业里面的数据挖掘现状如何？
+问题链接：http://www.zhihu.com/question/36763466
+问题: Python 现在这么火，国外有些大学基础也是 Python，为什么国内大学还在教C 语言呢？
+问题链接：http://www.zhihu.com/question/32173843
+问题: 学习数据结构有什么用？
+问题链接：http://www.zhihu.com/question/29587605
+问题: 如何选择业余学习编程的方向？
+问题链接：http://www.zhihu.com/question/31822580
+问题: 关于 Python 的经典入门书籍有哪些？
+问题链接：http://www.zhihu.com/question/19593179
+问题: python比java牛在哪？
+问题链接：http://www.zhihu.com/question/33400478
+问题: Python在数据科学领域能否完全取代R？
+问题链接：http://www.zhihu.com/question/31126264
+问题: Python的定位？
+问题链接：http://www.zhihu.com/question/29690505
+问题: Python 里为什么函数可以返回一个函数内部定义的函数？
+问题链接：http://www.zhihu.com/question/25950466
+问题: Python 编程，应该养成哪些好的习惯？
+问题链接：http://www.zhihu.com/question/28966220
+问题: Python 在数据分析工作中的地位与 R 语言、SAS、SPSS 比较如何？
+问题链接：http://www.zhihu.com/question/21309717
+问题: Python 在网页爬虫、数据挖掘、机器学习和自然语言处理领域的应用情况如何？
+问题链接：http://www.zhihu.com/question/20216472
+问题: Python中，代码放在函数中运行为什么比放在全局中运行快？
+问题链接：http://www.zhihu.com/question/44011219
+问题: 有没有内容类似于《Python源码剖析》，但内容更新过，针对新版本的Python书籍？
+问题链接：http://www.zhihu.com/question/40787248
+问题: C、C++、Java、JavaScript、PHP、Python、Ruby 这些语言分别主要用来开发什么？
+问题链接：http://www.zhihu.com/question/19993874
+问题: 如何编写 Python 程序爬取新浪军事论坛？
+问题链接：http://www.zhihu.com/question/23549636
+问题: Python 有哪些新手不会了解的深入细节？
+问题链接：http://www.zhihu.com/question/26911893
+问题: 用 Vim 写 Python 的最佳实践是什么？
+问题链接：http://www.zhihu.com/question/19655689
+问题: Python 是否是下一个 PHP？为什么？
+问题链接：http://www.zhihu.com/question/19557358
+问题: 如何获取斗鱼直播间的弹幕信息？
+问题链接：http://www.zhihu.com/question/29027665
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 怎样学 Python？
+问题链接：http://www.zhihu.com/question/20219414
+问题: 如何使用 Python 抓取雪球网页？
+问题链接：http://www.zhihu.com/question/29311492
+问题: 只会 Python 但有算法/数学背景，如何快速进修学习成为 C++ 程序员?
+问题链接：http://www.zhihu.com/question/27119204
+问题: Python 项目的部署，目前互联网公司有哪些成熟的方案？
+问题链接：http://www.zhihu.com/question/38081354
+问题: 对 Quant 而言 Python 的需求高吗，除 C++ 外还有哪些流行的编程语言？
+问题链接：http://www.zhihu.com/question/20746635
+问题: Python 工程师在公司工作体验如何？
+问题链接：http://www.zhihu.com/question/26522101
+问题: 如何用 Python 科学计算中的矩阵替代循环？
+问题链接：http://www.zhihu.com/question/24529196
+问题: 为什么scrapy没法爬中纪委网站？
+问题链接：http://www.zhihu.com/question/31015275
+问题: 可以用 Python 编程语言做哪些神奇好玩的事情？
+问题链接：http://www.zhihu.com/question/21395276
+问题: 如何选择业余学习编程的方向？
+问题链接：http://www.zhihu.com/question/31822580
+问题: 如何让停留在语法层面的 C++，变成实际工程中的 C++？
+问题链接：http://www.zhihu.com/question/26854351
+问题: 「8 万行的 Python 程序用 4 万行 Java 重写了」，说明了什么？
+问题链接：http://www.zhihu.com/question/22252189
+问题: Python有哪些黑魔法？
+问题链接：http://www.zhihu.com/question/29995881
+问题: 学习数据结构、图形学、系统编程、网络编程，哪门语言可以同时涵盖它们又能快速实现想法呢？
+问题链接：http://www.zhihu.com/question/29600167
+问题: 为什么机器学习的框架都偏向于Python？
+问题链接：http://www.zhihu.com/question/30105838
+问题: 异常(exception)和执行失败有什么区别？
+问题链接：http://www.zhihu.com/question/36278363
+问题: Python 在编程语言中是什么地位？为什么很多大学不教 Python？
+问题链接：http://www.zhihu.com/question/19794709
+问题: 如何用Python写一个抓取新浪财经网指定企业年报的脚本？
+问题链接：http://www.zhihu.com/question/29979949
+问题: 如果每天坚持用12个小时学习一门编程语言，一年下来，编程能力会达到什么程度？
+问题链接：http://www.zhihu.com/question/25526940
+问题: 为什么有人说 Python 的多线程是鸡肋呢？
+问题链接：http://www.zhihu.com/question/23474039
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: JavaScript 里的闭包是什么？应用场景有哪些？
+问题链接：http://www.zhihu.com/question/19554716
+问题: 打算读计科高考后的暑假怎么先自学?
+问题链接：http://www.zhihu.com/question/39577102
+问题: 哪些 Python 库让你相见恨晚？
+问题链接：http://www.zhihu.com/question/24590883
+问题: 如何处理 Python 入门难以进步的现象？
+问题链接：http://www.zhihu.com/question/27969262
+问题: 我33岁半，立志做个厉害的黑客，有可能实现吗？
+问题链接：http://www.zhihu.com/question/28365937
+问题: 如果代码按行付费，会有什么好玩的事情发生？
+问题链接：http://www.zhihu.com/question/38884089
+问题: 《Learn Python the Hard Way》的「hard way」该如何翻译？
+问题链接：http://www.zhihu.com/question/20032708
+问题: Python 现在这么火，国外有些大学基础也是 Python，为什么国内大学还在教C 语言呢？
+问题链接：http://www.zhihu.com/question/32173843
+问题: Python 在数据分析工作中的地位与 R 语言、SAS、SPSS 比较如何？
+问题链接：http://www.zhihu.com/question/21309717
+问题: 自学两个月Python可以开始赚钱吗？
+问题链接：http://www.zhihu.com/question/31910682
+问题: 对于一个开源 Python 量化交易平台项目的建议有哪些？
+问题链接：http://www.zhihu.com/question/28354642
+问题: Python 学习完基础语法知识后，如何进一步提高？
+问题链接：http://www.zhihu.com/question/27386361
+问题: 一行 Python 能实现什么丧心病狂的功能？
+问题链接：http://www.zhihu.com/question/37046157
+问题: Python 有哪些入门学习方法和值得推荐的经典教材？
+问题链接：http://www.zhihu.com/question/20945086
+问题: 穿一件“人生苦短 我用python”的衣服在大街上闲逛，会不会被揍？？？
+问题链接：http://www.zhihu.com/question/27154572
+问题: 如何看待有人在知乎上问具体如何编程的问题？
+问题链接：http://www.zhihu.com/question/23341724
+问题: 学了 Python 之后，再学 Java 是不是会更容易？
+问题链接：http://www.zhihu.com/question/20843570
+问题: 初中生学编程是不是太早了？
+问题链接：http://www.zhihu.com/question/39716287
+问题: 为什么 Python 不支持函数重载？
+问题链接：http://www.zhihu.com/question/20053359
+问题: 知乎上有哪些好的程序员可以关注？
+问题链接：http://www.zhihu.com/question/22576739
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: Python 初学者想通过 Django 框架写一个博客，一个月内完成任务，大致的学习路线怎么安排？
+问题链接：http://www.zhihu.com/question/20299906
+问题: 计算机系大四学生如何在六个月的时间内完成一个编译器？要学些什么？
+问题链接：http://www.zhihu.com/question/26760072
+问题: 如何写个爬虫程序扒下知乎某个回答所有点赞用户名单？
+问题链接：http://www.zhihu.com/question/36338520
+问题: 毫无基础的人如何入门 Python ？
+问题链接：http://www.zhihu.com/question/32048560
+问题: 初学 Python，有哪些 Pythonic 的源码推荐阅读？
+问题链接：http://www.zhihu.com/question/20336475
+问题: 在写Python的时候，你最喜欢用哪一款IDE？
+问题链接：http://www.zhihu.com/question/19612309
+问题: 想从事运维开发，有什么好的自学 CentOS 和 Python 学习方案？
+问题链接：http://www.zhihu.com/question/24093352
+问题: 有哪些颜值高的 PyQt/Qt 应用？
+问题链接：http://www.zhihu.com/question/39607624
+问题: coursera上有哪些值得学习的Python,数据分析的课程？
+问题链接：http://www.zhihu.com/question/36254617
+问题: 有没有什么很好的 Tornado 的教材或者开源项目可以做参考的？
+问题链接：http://www.zhihu.com/question/19707966
+问题: Python 程序如何高效地调试？
+问题链接：http://www.zhihu.com/question/21572891
+问题: 如何理性的评价各种编程语言的优劣？
+问题链接：http://www.zhihu.com/question/35541927
+问题: Python 爬虫如何机器登录新浪微博并抓取内容？
+问题链接：http://www.zhihu.com/question/29666539
+问题: 求十亿内所有质数的和，怎么做最快?
+问题链接：http://www.zhihu.com/question/29580448
+问题: Python 哪些可以代替递归的算法？
+问题链接：http://www.zhihu.com/question/36857981
+问题: 为什么 Node.js 这么火，而同样异步模式 Python 框架 Twisted 却十几年一直不温不火？
+问题链接：http://www.zhihu.com/question/23854296
+问题: 你见过哪些令你瞠目结舌的 Python 代码技巧？
+问题链接：http://www.zhihu.com/question/37904398
+问题: 最近在学习 OpenStack，已经了解了其作用、架构。想进一步学习研究OpenStack各组件，对于源代码的阅读和学习，想得到大家的建议？
+问题链接：http://www.zhihu.com/question/20758224
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: python的type和object之间是怎么一种关系？
+问题链接：http://www.zhihu.com/question/38791962
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 如何评价可以自动更换 User-Agent 的爬虫设计？
+问题链接：http://www.zhihu.com/question/34980963
+问题: Python缩进的代码风格真的很好吗？
+问题链接：http://www.zhihu.com/question/28322830
+问题: 学 Python 发现学一门编程语言很难，有哪些学好编程的方法或技巧？
+问题链接：http://www.zhihu.com/question/24372323
+问题: Python 在编程语言中是什么地位？为什么很多大学不教 Python？
+问题链接：http://www.zhihu.com/question/19794709
+问题: Python和java二选一该学啥？
+问题链接：http://www.zhihu.com/question/39684414
+问题: Python 爬虫进阶？
+问题链接：http://www.zhihu.com/question/35461941
+问题: 在机器学习科学计算领域,有哪些工具能让python和matlab一样好用?
+问题链接：http://www.zhihu.com/question/35354880
+问题: 国内很多基于python的网站开始招聘java工程师，原因是什么？
+问题链接：http://www.zhihu.com/question/37496622
+问题: 为什么要学习Python？
+问题链接：http://www.zhihu.com/question/35424311
+问题: Python 中的 classmethod 和 staticmethod 有什么具体用途？
+问题链接：http://www.zhihu.com/question/20021164
+问题: 你见过哪些令你瞠目结舌的爬虫技巧？
+问题链接：http://www.zhihu.com/question/38192299
+问题: Ruby 和 Python 相比有什么优势和缺陷？
+问题链接：http://www.zhihu.com/question/19552194
+问题: 编程界有哪些不懂编程的人也能听得懂的笑话？
+问题链接：http://www.zhihu.com/question/35074473
+问题: 怎么样才算是精通 Python？
+问题链接：http://www.zhihu.com/question/19794855
+问题: 为什么 sqlmap 源码看起来那么费劲？
+问题链接：http://www.zhihu.com/question/37589590
+问题: 关于python Django与Flask学习的一些疑惑？
+问题链接：http://www.zhihu.com/question/36625971
+问题: Python 里没有接口，如何写设计模式？
+问题链接：http://www.zhihu.com/question/20685467
+问题: 想用Django+ Bootstrap写一个网站， 有哪些比较系统完整的书或者视频可以参考？
+问题链接：http://www.zhihu.com/question/29804463
+问题: 编程中什么是「Context(上下文)」？
+问题链接：http://www.zhihu.com/question/26387327
+问题: 曾经在BAT,网易等大公司实习的你们,当年的实力是怎样的？
+问题链接：http://www.zhihu.com/question/44188457
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 为什么 Python 里面的 range 不包含上界？
+问题链接：http://www.zhihu.com/question/24883243
+问题: 如何评价淘宝上各种售卖开源系统源代码的行为？
+问题链接：http://www.zhihu.com/question/38982197
+问题: Python 网络编程需要学习哪些网络相关的知识？
+问题链接：http://www.zhihu.com/question/19854853
+问题: 怎样用 Windows 入门Python？
+问题链接：http://www.zhihu.com/question/21713337
+问题: 你有哪些想要分享的 PyCharm 使用技巧？
+问题链接：http://www.zhihu.com/question/37787004
+问题: Excel的VBA现在还算是办公利器吗？
+问题链接：http://www.zhihu.com/question/24833569
+问题: 作为一名程序猿，除了王者一样的思维还有鬼斧神工的技术之外，请问还有哪些加分项目呢？
+问题链接：http://www.zhihu.com/question/28458609
+问题: 用Python写过哪些脑洞大开的小工具？
+问题链接：http://www.zhihu.com/question/33646570
+问题: PHP, Python, Node.js 哪个比较适合写爬虫？
+问题链接：http://www.zhihu.com/question/23643061
+问题: 如何系统地学习Python 中 matplotlib, numpy, scipy, pandas？
+问题链接：http://www.zhihu.com/question/37180159
+问题: Python 爬虫进阶？
+问题链接：http://www.zhihu.com/question/35461941
+问题: Node.js 与 Python 作为后端服务的编程语言各有什么优劣？
+问题链接：http://www.zhihu.com/question/20961574
+问题: Python缩进的代码风格真的很好吗？
+问题链接：http://www.zhihu.com/question/28322830
+问题: 现在看，在统计学或（理论/应用）计量经济学领域，python 能完美地代替 R 和 stata 吗？
+问题链接：http://www.zhihu.com/question/39263733
+问题: 学习 Python web 框架前需要掌握什么？
+问题链接：http://www.zhihu.com/question/19661925
+问题: 为什么 Python 现在越来越火了？
+问题链接：http://www.zhihu.com/question/30356973
+问题: Python 是一门适合做数据挖掘的语言吗？
+问题链接：http://www.zhihu.com/question/20085299
+问题: 为什么有些编程语言的数组要从零开始算？
+问题链接：http://www.zhihu.com/question/24289367
+问题: 有哪些值得推荐的Python学习网站？
+问题链接：http://www.zhihu.com/question/36082950
+问题: Mathematica 能否成为取代 Python 乃至其他编程语言的程序设计语言？
+问题链接：http://www.zhihu.com/question/23563090
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: Python已经式微了吗？为什么学计算机的小伙伴说现在Java和C++才是王道？
+问题链接：http://www.zhihu.com/question/38280492
+问题: 什么时候会用到python装饰器？
+问题链接：http://www.zhihu.com/question/31265857
+问题: 为什么这个网页的源代码用python爬下来后用beautifulsoup解析后会出现字符丢失？
+问题链接：http://www.zhihu.com/question/30970752
+问题: 未来十年Python的前景会怎样？
+问题链接：http://www.zhihu.com/question/22112542
+问题: Python 有哪些好的 Web 框架？
+问题链接：http://www.zhihu.com/question/20706333
+问题: 面向对象编程的重要性在哪？
+问题链接：http://www.zhihu.com/question/20603416
+问题: 金融工程现在用python多吗？
+问题链接：http://www.zhihu.com/question/32225802
+问题: 如何用数学软件画一个“圣诞树”?
+问题链接：http://www.zhihu.com/question/27048717
+问题: 选股策略回测用 Matlab 好还是用 Python 好？
+问题链接：http://www.zhihu.com/question/30801713
+问题: 曾经在BAT,网易等大公司实习的你们,当年的实力是怎样的？
+问题链接：http://www.zhihu.com/question/44188457
+问题: 算法，西瓜切十刀，最多是多少块？
+问题链接：http://www.zhihu.com/question/40927907
+问题: Guido van Rossum 去 Google 应聘，只写了三个词「I wrote Python」的简历是真的吗？
+问题链接：http://www.zhihu.com/question/20661545
+问题: 假如我成了世界上最精通python的人，我能用python完成什么伟大的事情？
+问题链接：http://www.zhihu.com/question/37313082
+问题: 如何用python开发移动App（android、iOS）后台？需要掌握哪些技术？
+问题链接：http://www.zhihu.com/question/37687344
+问题: “男友让我打十万个「对不起」，汉字标上多少遍。”这个问题用 R 如何实现？
+问题链接：http://www.zhihu.com/question/29374467
+问题: Python 有什么奇技淫巧？
+问题链接：http://www.zhihu.com/question/27376156
+问题: Django官方文档的tutorials六个part全部读完之后，如何继续深入学习官方文档？
+问题链接：http://www.zhihu.com/question/32372138
+问题: Python 里没有接口，如何写设计模式？
+问题链接：http://www.zhihu.com/question/20685467
+问题: 关于python Django与Flask学习的一些疑惑？
+问题链接：http://www.zhihu.com/question/36625971
+问题: 有没有专门关于python在建筑中的应用和教程？
+问题链接：http://www.zhihu.com/question/30922318
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: Python 中列表推导（list comprehension）相对于循环有什么优势？性能会更高吗？
+问题链接：http://www.zhihu.com/question/34637934
+问题: JavaScript 如何获取闭包变量？
+问题链接：http://www.zhihu.com/question/31840939
+问题: 为什么 Python 工程师很少像 Java 工程师那样讨论垃圾回收？
+问题链接：http://www.zhihu.com/question/38380754
+问题: python idle 解释和直接 python script.py 解释有什么差别？
+问题链接：http://www.zhihu.com/question/29089863
+问题: 为什么 Flask 有那么多的好评?
+问题链接：http://www.zhihu.com/question/28902969
+问题: 如何写个爬虫程序扒下知乎某个回答所有点赞用户名单？
+问题链接：http://www.zhihu.com/question/36338520
+问题: lasagne，keras，pylearn2，nolearn深度学习库，到底哪家强？
+问题链接：http://www.zhihu.com/question/38648428
+问题: 为什么MOOC上以C语言为主讲授的计算机课程几乎没有？
+问题链接：http://www.zhihu.com/question/34870962
+问题: Python已经式微了吗？为什么学计算机的小伙伴说现在Java和C++才是王道？
+问题链接：http://www.zhihu.com/question/38280492
+问题: 为什么机器学习的框架都偏向于Python？
+问题链接：http://www.zhihu.com/question/30105838
+问题: 用Python写一个中国象棋AI？
+问题链接：http://www.zhihu.com/question/29472711
+问题: 假如我成了世界上最精通python的人，我能用python完成什么伟大的事情？
+问题链接：http://www.zhihu.com/question/37313082
+问题: 为什么MOOC上以C语言为主讲授的计算机课程几乎没有？
+问题链接：http://www.zhihu.com/question/34870962
+问题: Python 有哪些一千行左右的经典练手项目？
+问题链接：http://www.zhihu.com/question/31830544
+问题: 刚开始接触Python，如何正确高效的开展Python学习？
+问题链接：http://www.zhihu.com/question/30876871
+问题: 做统计学习应该学 Python 还是 R？
+问题链接：http://www.zhihu.com/question/28851728
+问题: 初中生学编程是不是太早了？
+问题链接：http://www.zhihu.com/question/39716287
+问题: 中国的 Python 量化交易工具链有哪些？
+问题链接：http://www.zhihu.com/question/28557233
+问题: 利用一年的时间，利用空余的每天两个小时，怎么可以熟练掌握，python，mysql，服务器，Linux？
+问题链接：http://www.zhihu.com/question/27719010
+问题: 如何看待有人在知乎上问具体如何编程的问题？
+问题链接：http://www.zhihu.com/question/23341724
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 为什么python代码有时候在命令行下和Python Shell中执行的结果不一样呢 ?
+问题链接：http://www.zhihu.com/question/33003448
+问题: 学 Python 发现学一门编程语言很难，有哪些学好编程的方法或技巧？
+问题链接：http://www.zhihu.com/question/24372323
+问题: 怎么理解元编程？
+问题链接：http://www.zhihu.com/question/23856985
+问题: 有哪些颜值高的 PyQt/Qt 应用？
+问题链接：http://www.zhihu.com/question/39607624
+问题: “男友让我打十万个「对不起」，汉字标上多少遍。”这个问题用 R 如何实现？
+问题链接：http://www.zhihu.com/question/29374467
+问题: Spring，Django，Rails，Express这些框架技术的出现都是为了解决什么问题，现在这些框架都应用在哪些方面？
+问题链接：http://www.zhihu.com/question/25654738
+问题: Java相比Python3有哪些优势？
+问题链接：http://www.zhihu.com/question/30897072
+问题: 中国的 Python 量化交易工具链有哪些？
+问题链接：http://www.zhihu.com/question/28557233
+问题: 为什么操作系统的事件监听不会占用100%的CPU？
+问题链接：http://www.zhihu.com/question/27933543
+问题: 为什么要学 Python？
+问题链接：http://www.zhihu.com/question/25627959
+问题: Python 适合大数据量的处理吗？
+问题链接：http://www.zhihu.com/question/19607447
+问题: 算法，西瓜切十刀，最多是多少块？
+问题链接：http://www.zhihu.com/question/40927907
+问题: 什么时候会用到python装饰器？
+问题链接：http://www.zhihu.com/question/31265857
+问题: 为什么 Dropbox 等大型服务使用 Python 作为主要语言，即使它的效率比其他编译型语言低几个数量级？
+问题链接：http://www.zhihu.com/question/22963389
+问题: Windows 用户如何运行一个 GitHub 上的 Python 脚本？
+问题链接：http://www.zhihu.com/question/22718672
+问题: Python 项目的部署，目前互联网公司有哪些成熟的方案？
+问题链接：http://www.zhihu.com/question/38081354
+问题: 写代码时总纠结于完美实现强迫症怎么办？
+问题链接：http://www.zhihu.com/question/27609716
+问题: 三个基于 Python 的网站：知乎、豆瓣、V2EX 都存在卡顿的问题，是 Python 的问题吗？
+问题链接：http://www.zhihu.com/question/21521104
+问题: Kaggle 的比赛在 Machine Learning 领域中属于什么地位？
+问题链接：http://www.zhihu.com/question/32032932
+问题: 值得看的Python的开源项目有哪些？
+问题链接：http://www.zhihu.com/question/19840137
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 相比于 Django、Pylon 等 Python 框架，Ruby on Rails 是否有很大的技术优势？
+问题链接：http://www.zhihu.com/question/20400060
+问题: 你什么时候对 Python 感到绝望？
+问题链接：http://www.zhihu.com/question/27519900
+问题: 知乎，豆瓣，果壳都是python开发的，是不是python程序员都比较文艺？还是文艺青年都喜欢python？
+问题链接：http://www.zhihu.com/question/27091918
+问题: 准备自己建一个个人博客，有什么好的框架推荐？
+问题链接：http://www.zhihu.com/question/24179143
+问题: Python 有哪些好的 Web 框架？
+问题链接：http://www.zhihu.com/question/20706333
+问题: 什么样的 Python 编辑器比较适合新手？
+问题链接：http://www.zhihu.com/question/19745701
+问题: Python 常用的标准库以及第三方库有哪些？
+问题链接：http://www.zhihu.com/question/20501628
+问题: 为什么 Linux 搭建各种开发环境相较 Windows 如此简洁容易？
+问题链接：http://www.zhihu.com/question/33285472
+问题: Python 爬虫如何机器登录新浪微博并抓取内容？
+问题链接：http://www.zhihu.com/question/29666539
+问题: 对于一个开源 Python 量化交易平台项目的建议有哪些？
+问题链接：http://www.zhihu.com/question/28354642
+问题: R 和 Python 在金融界的发展前景怎样？
+问题链接：http://www.zhihu.com/question/24466317
+问题: ThinkPHP, Django这两个框架孰优孰略，忽略语言本身？
+问题链接：http://www.zhihu.com/question/34589653
+问题: 编程界有哪些不懂编程的人也能听得懂的笑话？
+问题链接：http://www.zhihu.com/question/35074473
+问题: 为什么要学 Python？
+问题链接：http://www.zhihu.com/question/25627959
+问题: 国内熟练使用 Python 的程序员待遇如何？
+问题链接：http://www.zhihu.com/question/19804165
+问题: 一行 Python 能实现什么丧心病狂的功能？
+问题链接：http://www.zhihu.com/question/37046157
+问题: coursera上有哪些值得学习的Python,数据分析的课程？
+问题链接：http://www.zhihu.com/question/36254617
+问题: 编程界有哪些不懂编程的人也能听得懂的笑话？
+问题链接：http://www.zhihu.com/question/35074473
+问题: 为什么 Linux 搭建各种开发环境相较 Windows 如此简洁容易？
+问题链接：http://www.zhihu.com/question/33285472
+问题: 为什么我觉得Python的学习很没有条理？
+问题链接：http://www.zhihu.com/question/22620217
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
+问题: 句法分析 (syntactic parsing) 在 NLP 领域的应用是怎样的？
+问题链接：http://www.zhihu.com/question/39034550
+问题: coursera上有哪些值得学习的Python,数据分析的课程？
+问题链接：http://www.zhihu.com/question/36254617
+问题: php7 更新后对于 python 会造成怎样的冲击？python+c 扩展能否 hold 住性能？
+问题链接：http://www.zhihu.com/question/35641724
+问题: 如果 Python 代替 JavaScript 成为浏览器前端编程语言，这个世界会更美好吗？
+问题链接：http://www.zhihu.com/question/29750896
+问题: 搞 Java 的有必要学 Python 么？
+问题链接：http://www.zhihu.com/question/27975234
+问题: 会一门脚本语言，学 bash 就显得浪费时间？
+问题链接：http://www.zhihu.com/question/21747474
+问题: 怎样用 Windows 入门Python？
+问题链接：http://www.zhihu.com/question/21713337
+问题: 如何评价淘宝上各种售卖开源系统源代码的行为？
+问题链接：http://www.zhihu.com/question/38982197
+问题: 如何捅破编程中「理论知识」和「实际应用」的窗户纸？
+问题链接：http://www.zhihu.com/question/31243271
+问题: 怎么写一个拿得出手的项目?
+问题链接：http://www.zhihu.com/question/29909382
+问题: 如何使vim下开发python调试更方便？
+问题链接：http://www.zhihu.com/question/20271508
+问题: 为什么苹果新语言 Swift 的 RC4 运算效能是 Python 的 220 倍？
+问题链接：http://www.zhihu.com/question/24003086
+问题: python不区分变量定义和赋值，是否是一个设计上的缺陷？
+问题链接：http://www.zhihu.com/question/30744807
+问题: 为什么有了SAS，WEKA等功能强大的数据分析挖掘软件，还需要R,PYTHON？
+问题链接：http://www.zhihu.com/question/37136291
+问题: 自学Python/PHP，我今年20岁，该如何选择?
+问题链接：http://www.zhihu.com/question/39522954
+问题: 到底什么是闭包？
+问题链接：http://www.zhihu.com/question/34210214
+问题: Python 学习完基础语法知识后，如何进一步提高？
+问题链接：http://www.zhihu.com/question/27386361
+问题: 为什么在知乎上搜索“map[]”一定会导致“服务器提了一个问题”？
+问题链接：http://www.zhihu.com/question/25542090
+问题: 如何系统的学习python？
+问题链接：http://www.zhihu.com/question/24416053
+问题: 你看好 Python 3 吗？
+问题链接：http://www.zhihu.com/question/19579840
+问题: anaconda winpython的优势在哪里？
+问题链接：http://www.zhihu.com/question/45730716
+问题: 你用 Python 做过什么有趣的数据挖掘/分析项目？
+问题链接：http://www.zhihu.com/question/28975391
+问题: Abaqus中如何根据不同的材料来创建对应的set？
+问题链接：http://www.zhihu.com/question/37336960
+问题: R 和 Python (numpy scipy pandas) 用于统计学分析，哪个更好？
+问题链接：http://www.zhihu.com/question/20388507
+问题: 如何在python中定义像matlab那种等间距数组？
+问题链接：http://www.zhihu.com/question/45732585
+问题: Python 随机产生列向量?
+问题链接：http://www.zhihu.com/question/45719853
+问题: 在没有网络的情况下能自学python吗？
+问题链接：http://www.zhihu.com/question/45739032
+问题: 爬取新浪新闻的评论？
+问题链接：http://www.zhihu.com/question/22326488
+问题: 大家都用 Python 来做什么啊？
+问题链接：http://www.zhihu.com/question/20799742
+问题: Python用urlretrieve下载文件出错，怎么解决？
+问题链接：http://www.zhihu.com/question/45720770
