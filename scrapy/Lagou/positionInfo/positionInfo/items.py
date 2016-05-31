@@ -8,7 +8,7 @@
 from scrapy import Item,Field
 
 
-class LagouItem(Item):
+class PositionInfoItem(Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     city = Field()

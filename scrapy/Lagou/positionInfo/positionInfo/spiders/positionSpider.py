@@ -1,9 +1,8 @@
 # -*- coding: utf-8 -*-
 import scrapy
 import json
-from positionInfo.items import LagouItem
+from positionInfo.items import PositionInfoItem
 import os
-import time
 
 basedir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(__file__))))
 
@@ -13,21 +12,21 @@ class LagoupositonSpider(scrapy.Spider):
     totalPageCount = 0
     curpage = 1
     cur = 0
-    myurl = 'http://www.lagou.com/jobs/positionAjax.json?'
-    city = u'北京'
 
-    kds = [u'java','python','PHP','.NET','JavaScript','C#','C++','C','VB','Dephi','Perl','Ruby','Go','ASP','Shell']
-    # ['Node.js',u'数据挖掘',u'自然语言处理',u'搜索算法',u'精准推荐',u'全栈工程师']
-    # ['HTML5','Android','iOS',u'web前端','Flash','U3D','COCOS2D-X']
-    # [u'spark','MySQL','SQLServer','Oracle','DB2','MongoDB' 'ETL','Hive',u'数据仓库','Hadoop']
+    keywords = [json.loads(line) for line in open(basedir + '/data/KeyWords.json')]
+    myurl = "http://www.lagou.com/jobs/positionAjax.json?"
+
+    kds = keywords[0][u'技术'][0]
+
     kd = kds[0]
+
     def start_requests(self):
         return [scrapy.http.FormRequest(self.myurl,
                                         formdata={'pn':str(self.curpage),'kd':self.kd},callback=self.parse)]
 
     def parse(self, response):
 
-        item = LagouItem()
+        item = PositionInfoItem()
         jdict = json.loads(response.body)
         jcontent = jdict["content"]
         jposresult = jcontent["positionResult"]
