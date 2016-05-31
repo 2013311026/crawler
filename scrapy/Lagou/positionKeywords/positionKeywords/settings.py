@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for Crawllagou project
+# Scrapy settings for positionKeywords project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,14 +9,19 @@
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'Crawllagou'
+BOT_NAME = 'positionKeywords'
 
-SPIDER_MODULES = ['Crawllagou.spiders']
-NEWSPIDER_MODULE = 'Crawllagou.spiders'
+SPIDER_MODULES = ['positionKeywords.spiders']
+NEWSPIDER_MODULE = 'positionKeywords.spiders'
 
+USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5'
+
+ITEM_PIPELINES = {
+   'positionKeywords.pipelines.PositionkeywordsPipeline': 300,
+}
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'Crawllagou (+http://www.yourdomain.com)'
+#USER_AGENT = 'positionKeywords (+http://www.yourdomain.com)'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS=32
@@ -44,13 +49,13 @@ NEWSPIDER_MODULE = 'Crawllagou.spiders'
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'Crawllagou.middlewares.MyCustomSpiderMiddleware': 543,
+#    'positionKeywords.middlewares.MyCustomSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'Crawllagou.middlewares.MyCustomDownloaderMiddleware': 543,
+#    'positionKeywords.middlewares.MyCustomDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -62,7 +67,7 @@ NEWSPIDER_MODULE = 'Crawllagou.spiders'
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'Crawllagou.pipelines.SomePipeline': 300,
+#    'positionKeywords.pipelines.SomePipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)

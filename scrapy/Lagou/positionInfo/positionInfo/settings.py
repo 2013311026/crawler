@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for CrawlKeywords project
+# Scrapy settings for positionInfo project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -8,19 +8,23 @@
 #     http://doc.scrapy.org/en/latest/topics/settings.html
 #     http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #     http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
+import os
 
-BOT_NAME = 'CrawlKeywords'
+BOT_NAME = 'positionInfo'
 
-SPIDER_MODULES = ['CrawlKeywords.spiders']
-NEWSPIDER_MODULE = 'CrawlKeywords.spiders'
+SPIDER_MODULES = ['positionInfo.spiders']
+NEWSPIDER_MODULE = 'positionInfo.spiders'
 
-USER_AGENT = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.54 Safari/536.5'
+USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36'
 
-ITEM_PIPELINES = {
-   'CrawlKeywords.pipelines.CrawlkeywordsPipeline': 300,
-}
+basedir = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
+
+#FEED_URI = 'file:///C:/Users/ben/Desktop/Lagou/0527/data/position.csv'
+FEED_URI = basedir + '/data/position.csv'
+FEED_FORMAT = 'csv'
+
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-#USER_AGENT = 'CrawlKeywords (+http://www.yourdomain.com)'
+#USER_AGENT = 'positionInfo (+http://www.yourdomain.com)'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
 #CONCURRENT_REQUESTS=32
@@ -48,13 +52,13 @@ ITEM_PIPELINES = {
 # Enable or disable spider middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'CrawlKeywords.middlewares.MyCustomSpiderMiddleware': 543,
+#    'positionInfo.middlewares.MyCustomSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'CrawlKeywords.middlewares.MyCustomDownloaderMiddleware': 543,
+#    'positionInfo.middlewares.MyCustomDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -66,7 +70,7 @@ ITEM_PIPELINES = {
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
 #ITEM_PIPELINES = {
-#    'CrawlKeywords.pipelines.SomePipeline': 300,
+#    'positionInfo.pipelines.SomePipeline': 300,
 #}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
